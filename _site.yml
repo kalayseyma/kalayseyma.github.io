@@ -15,10 +15,6 @@ navbar:
     - text: "Bio"
       href: bio.html
       icon: fa-user
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
   right:
    - href: https://github.com/DDArmstrong
      icon: fa-github
