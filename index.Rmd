@@ -44,6 +44,6 @@ How can I help you explain yourself to the world?
 ### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
 
 <a href = "https://crumplab.github.io">
-![](images/logo.png)
+![](images/home1.png)
 </a>
 </div>
