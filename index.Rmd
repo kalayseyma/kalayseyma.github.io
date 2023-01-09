@@ -1,6 +1,9 @@
 ---
-title: "Dan Armstrong"
-output: html_document
+title: ""
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
 ---
 
 <style type="text/css">
