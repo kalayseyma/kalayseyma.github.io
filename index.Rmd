@@ -37,5 +37,5 @@ How can I help you explain yourself to the world?
 
 <a href = "https://crumplab.github.io"> \1-->
 ![](images/home1.png)
-</a>
+<!--\1   </a> \1-->
 </div>
