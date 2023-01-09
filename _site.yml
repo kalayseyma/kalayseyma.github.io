@@ -16,4 +16,12 @@ navbar:
       href: Journal.html
     - text: "Links"
       href: Links.html
+  right:
+   - href: https://github.com/DDArmstrong
+     icon: fa-github
+   - href: https://www.linkedin.com/in/ddarmstrong/
+     icon: fa-linkedin
+   - href: https://twitter.com/allthedistricts
+     icon: fa-twitter     
 output_dir: "docs"
+ 
