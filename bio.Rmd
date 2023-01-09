@@ -1,0 +1,66 @@
+---
+title: ""
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
+    toc: yes
+    toc_float: yes
+    collapsed: no
+    number_sections: no
+    toc_depth: 1
+  pdf_document:
+    toc: yes
+    toc_depth: '1'
+---
+
+# About Dan
+
+* Dan is a data analyst and business writer who creates data-driven content for technology, financial and professional services companies.
+* He builds datasets, develops surveys, creates static and interactive visuals, and writes copy ranging from 270-character tweets to 8,000-word white papers.
+
+
+# Publications
+
+* <u>Derivatives Engineering</u> (McGraw-Hill, 1995)
+* <u>The Derivatives Engineering Workbook</u> (McGraw-Hill, 1995)
+* <u>Active Bank Risk Management</u> (McGraw-Hill, 1995)
+* <u>Tools of Risk Analysis</u> (The Globecon Group, 1996)
+* <u>Reading the Markets</u> (The Globecon Group, 1996)
+* <u>How to Free Blocked Funds</u>, Vols. 1 and 2 (Business Int’l Corp., 1985)
+* <u>Corporate FX Strategies</u>, Vols 1 and 2 (Business Int’l Corp., 1986) 
+* Created Royal Bank of Canada’s certification program for middle-market bankers, 1999
+* Shorter pieces published in The New York Times, The Economist and Newsweek
+
+
+# Certifications
+
+* Financial Risk Manager (Global Association of Risk Professionals)
+* Tableau Data Analyst (Tableau Corp.)
+
+# Past Employers
+
+* Senior Consultant, Deloitte (Federal Data Analytics Practice)
+* Senior Editor, The Economist Group
+* Director of Research, IT Services Marketing Association
+* Managing Director, The Globecon Group (financial education firm, destroyed 9/11)
+* Foreign Exchange Manager, Pacific Telesis
+* Page Editor, Mainichi Newspapers (Japan)
+
+# Education
+ 
+* MBA in Finance and Research Methods, Columbia Business School
+* MS in Geography, State University of NY
+* Additional coursework in statistics and data mining, Eastern CT State University
+* Completed Columbia Journalism School’s bootcamp in data journalism
+
+# Some Name-Dropping
+
+* Barack Obama’s editor at Obama’s first job after college. (See [NYTimes article](https://www.nytimes.com/2007/10/30/us/politics/30obama.html).)  
+* Developed Tableau dashboards for Anthony Fauci at NIH.
+
+
+
+
+
+
