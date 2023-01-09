@@ -4,7 +4,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+      icon: fa-home
     - text: "Data Stories"
+      icon: fa-book
       menu:
       - text: "Page 1"
         href: DS1.html
@@ -12,6 +14,7 @@ navbar:
         href: DS2.html
     - text: "Bio"
       href: bio.html
+      icon: fa-user
     - text: "Journal"
       href: Journal.html
     - text: "Links"
