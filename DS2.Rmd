@@ -6,6 +6,20 @@ output:
     highlight: tango
 ---
 
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -20,3 +34,9 @@ For this visual, I wrote a program in Perl (this was before the days of Python a
 The project yielded lots of insights about clusters of common interests among readers. We all live in our own bubbles.
 
 
+</div>
+<div class="col-sm-6">
+
+![](images/page2.png)
+
+</div>
