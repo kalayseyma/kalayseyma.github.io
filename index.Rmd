@@ -20,6 +20,10 @@ output:
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # **Data Journalist**
 
 I'm a writer who loves data - on markets, business, sports and love.
